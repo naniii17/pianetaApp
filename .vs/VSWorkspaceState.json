@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\hollowComponent",
+    "\\src\\components\\Image",
+    "\\src\\config",
+    "\\src\\screens",
+    "\\__tests__"
+  ],
+  "SelectedNode": "\\src\\components\\Image\\DisplayAnImageWithStyle.js",
+  "PreviewInSolutionExplorer": false
+}
